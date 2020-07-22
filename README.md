@@ -1,4 +1,6 @@
 # Iterating on a Stick Shift
 
-`npm install`
-`npm test`
+* Fork
+* Clone
+* `jest --watch-all`
+* See the tests for detail on your tasks!
