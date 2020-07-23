@@ -142,7 +142,7 @@ describe('makeExtinct', () => {
     };
 
     const extinctDino = {
-      species: 'Brachiosaurus...',
+      species: 'Brachiosaurus',
       period: 'Jurassic',
       carnivore: false,
       extinct: true
